@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("Welcome to making API Go!")
+	fmt.Println("Welcome to making API using Go!")
 }
